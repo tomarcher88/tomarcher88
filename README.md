@@ -7,22 +7,22 @@
 ## 🌱 I’m currently learning...
 - React
 - Tailwind CSS
-- 
+
 
 ## 🏗️ I'm currently working on...
 - Getting a fully setup GitHub
 - A new portfolio
 - A React based trivia app
-- 
+ 
 
 ## 🌍 How to reach me...
 - [tomarcher.uk](https://www.tomarcher.uk)
-- 
+ 
 
 ## 👴 My previous GitHub account...
 
-- [@greyhairandglasses](https://github.com/greyhairandglasses)
-- I didn't like the username anymore and felt like a fresh start with some slightly better practices put in place
+[@greyhairandglasses](https://github.com/greyhairandglasses)
+I didn't like the username anymore and felt like a fresh start with some slightly better practices put in place
 
 <!---
 tomarcher88/tomarcher88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
