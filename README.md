@@ -5,13 +5,14 @@
 
 
 ## 🌱 I’m currently learning...
+- JavaScript
 - React
 - Tailwind CSS
 
 
 ## 🏗️ I'm currently working on...
-- Getting a fully setup GitHub
-- A new portfolio
+- Getting a fully setup GitHub ✅
+- A new portfolio ✅
 - A React based trivia app
  
 
