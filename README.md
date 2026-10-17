@@ -1,28 +1,44 @@
 ![github-header](https://user-images.githubusercontent.com/106677254/171437284-d45cbedd-021d-45d3-b3b4-bbc4b5ad85fa.png)
 
-# 👋 Hi, I'm Tom 
-## A self taught developer with experience using HTML, CSS & JavaScript. I'm eager to build a career in the world of Web Development and network with other professionals to enhance my skillset
+# 👋 Hi, I'm Tom
+## A self-taught React & frontend developer who likes turning big, messy datasets into interfaces people can actually use. Lately I've been pairing that with AI and automation tooling.
 
 
-## 🌱 I’m currently learning...
-- JavaScript
-- React
-- Tailwind CSS
+## ⚡ What I do...
+- Build data-heavy, accessible React interfaces: dashboards, charts and maps for the UK energy industry
+- Care a lot about the details: responsive layouts, WCAG 2.2 AA and code that's easy to come back to
+- Wire up automation and AI pipelines (n8n, Power Automate, LLM APIs) to take repetitive work off people's plates
+
+
+## 🌱 I'm currently learning...
+- Getting more out of AI-assisted development with Claude Code and MCP
+- Self-hosting and looking after my own infrastructure (Docker, Linux, least-privilege everything)
+- Making sites easier to find, for both search engines and AI answers (SEO & GEO)
 
 
 ## 🏗️ I'm currently working on...
-- Working through the _JavaScript Algorithms and Data Structures_ course on [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
-- Working through the Wes Bos [JavaScript30](https://javascript30.com/) coding challenge
+- An **SEO/GEO audit engine** that checks how local businesses show up in search and in Perplexity, Gemini and OpenAI answers
+- A **self-hosted AI agent platform** I can message on Telegram, with coding workers that push to GitHub
+- Keeping my [portfolio](https://www.tomarcher.uk/) polished (React, TypeScript, Tailwind)
 
-## 🏆 Recently completed projects...
-- [A new portfolio](https://www.tomarcher.uk/) ✅
-- [A React based trivia app](https://idyllic-llama-9692b4.netlify.app/) ✅
-- [Weekly Planner](https://unique-empanada-c87612.netlify.app/) ✅
-- [Weather App 3.0](https://regal-sfogliatella-47f736.netlify.app/) ✅
+
+## 🏆 Things I'm proud of...
+- Leading the frontend on a national energy-data platform used by Ofgem and government
+- Rebuilding a grid-mapping platform in two weeks, later adapted into a public tool shortlisted for BI Solution of the Year at the British Data Awards 2026
+- Going from teaching myself HTML, CSS & JavaScript to building production React apps
+
+
+## 🧰 Tools I reach for...
+React · TypeScript · Tailwind CSS · Highcharts · Mapbox · n8n · Docker · Git
+
 
 ## 🌍 How to reach me...
-- [tomarcher.uk](https://www.tomarcher.uk)
- 
+- 🌐 [tomarcher.uk](https://www.tomarcher.uk)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tom-archer/)
+- ✉️ [hello@tomarcher.uk](mailto:hello@tomarcher.uk)
+
+I'm based in Cambridgeshire and open to remote React and frontend roles, especially data-rich, accessible products, plus automation and AI projects.
+
 
 ## 👴 My previous GitHub account...
 
